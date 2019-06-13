@@ -1,2 +1,3 @@
-name = input('Напишите свое имя ')
+name = input('Напишите свое имя: ')
 print(f'Hello, {name}!')
+exitonclick()
